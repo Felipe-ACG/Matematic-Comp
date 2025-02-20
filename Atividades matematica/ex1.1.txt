@@ -1,0 +1,43 @@
+Aritmética: título: "O que é Aritmética?"
+Fonte: Matemática na Web
+Link: https://www.matematicanoweb.com.br/o-que-e-aritmetica
+
+Álgebra Elementar: titulo: "Material Estruturado Matematica"
+Fonte: Adobe
+Link: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ced.seduc.ce.gov.br/wp-content/uploads/sites/82/2022/03/caderno06_deAluno.pdf
+
+Álgebra linear: titulo: "[ÁLGEBRA LINEAR] O *CURSO COMPLETO* em 40 Exercícios Resolvidos (ÍNDICE NO INÍCIO, RESUMO NO FINAL!)"
+Fonte: Youtube
+Link: https://www.youtube.com/watch?v=klLvjkyTDa4
+
+Algoritmos: titulo: "Introdução a Algoritmos"
+Autores: Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
+Referência: Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). Introdução a Algoritmos. 3ª edição. Editora Elsevier
+
+Lógica Matemática: titulo: "Lógica Matemática: Estruturas e Métodos"
+Autor: Peter Smith
+Referência: Smith, P. (2003). Lógica Matemática: Estruturas e Métodos. Editora Thomson.
+
+Teoria Dos Conjuntos: titulo: "Teoria dos Conjuntos - Introdução"
+Fonte: Youtube
+Link: https://www.youtube.com/watch?v=UOBLFL4t9Jg
+
+Relações e Funções: titulo: "Relações e Funções na Matemática" – 
+Fonte: Educa Mais Brasil
+Link: https://www.educamaisbrasil.com.br/enem/matematica/funcoes-matematicas
+
+Geometria: titulo: "How Math is Used in Video Game Development"
+Fonte: Youtube
+Link: https://www.youtube.com/watch?v=Hzyh5FPMfVg
+
+Cálculo e análise matemática: titulo: "Curso de Cálculo 1"
+Fonte: Youtube
+Link: https://www.youtube.com/watch?v=Hzyh5FPMfVg
+
+Probabilidade: titulo: "How Probability Works in Video Games"
+Fonte: Youtube
+link: https://www.youtube.com/watch?v=O2m6J8QEqc8
+
+Estatistica: titulo: "The Elements of Statistical Learning"
+Autor:Trevor Hastie, Robert Tibshirani e Jerome Friedman
+Referência: Hastie, T., Tibshirani, R., & Friedman, J. (2009)
